@@ -1,5 +1,4 @@
-## Hi there 👋
-[![MasterHead](your image link)](https://github.com/abhissharma21)
+## Hi there 👋 I am Abhishek
 
 <!--
 **abhissharma21/abhissharma21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
