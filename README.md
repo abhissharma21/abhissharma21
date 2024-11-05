@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhissharma21&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhissharma21)](https://github.com/abhissharma21/github-profile-trophy)
